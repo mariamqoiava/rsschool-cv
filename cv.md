@@ -5,8 +5,8 @@
   * Email: qoiavamariam@gmail.com
 
 ### Languages:
-    * Georgian: Native
-    * English: B1
-    * Russian: B1
+ * Georgian: Native
+ * English: B1
+ * Russian: B1
     
  
