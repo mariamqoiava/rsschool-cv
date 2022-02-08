@@ -6,7 +6,7 @@
 
 ### Languages:
  * Georgian: Native
- * English: B1
- * Russian: B1
+ * English: B2
+ * Russian: B2
     
  
